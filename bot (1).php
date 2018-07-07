@@ -1,7 +1,7 @@
 <?php 
 
 ob_start();
-$API_KEY = '582043631:AAEWxy5Kba3XGxFMaVRtUU1ys_RRLk023dY'; //add your bot token
+$API_KEY = '619250385:AAHtg1CbSpWetULVEL8uk4FYBo3aDkSXNgw'; //add your bot token
 $sudo = 204535577; // add your id
 $bot_id = 474669491; 
 $e = "@i9ii_bot";
